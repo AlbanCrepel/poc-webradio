@@ -1,6 +1,6 @@
 # poc-webradio
 
-> A POC for live audio streaming with NodeJs
+> A POC for live audio streaming with NodeJs.
 
 ## Installation
 
@@ -26,9 +26,9 @@ It plays every track in the `tracks` folder and loop them when finished.
 
 If you want to stream audio not from files but from a tab or your mic, check this example: 
 [Medium article](https://medium.com/@mustneerahmadr7/broadcasting-and-streaming-live-audio-using-node-js-ffmpeg-react-and-react-native-09604f0937f0) 
-and [code](https://github.com/mustneerar7/live_audio_streaming_backend/blob/main/server.js)
+and [code](https://github.com/mustneerar7/live_audio_streaming_backend/blob/main/server.js).
 
-You can also dig podcast streaming, and find sources on https://rss.com/tools/find-my-feed/
+You can also dig podcast streaming, and find sources on https://rss.com/tools/find-my-feed/.
 
 You can automate things with [node-cron](https://github.com/node-cron/node-cron), running things periodically.
 
